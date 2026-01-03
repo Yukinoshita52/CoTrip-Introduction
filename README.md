@@ -7,6 +7,14 @@
 
 演示地址：https://cotripplus.netlify.app/
 
+测试账号：
+
+| 账号     | 密码     |
+| -------- | -------- |
+| avidity  | 12345aB# |
+| benjamin | 12345aB# |
+| bamboo   | 12345aB# |
+
 > ps：当前有个bug暂时没修，见谅——头像、图片无法正确显示的问题（但是开发环境是能正确显示的）
 >
 > 原因：HTTPS不能请求HTTP，开发时用的HTTP的Minio地址，上线后没改过这个逻辑……所以……
